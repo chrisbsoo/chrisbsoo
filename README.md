@@ -26,9 +26,9 @@ I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focuse
 
 - 🔭 Currently building: **Nuclear Decommissioning Robots**
 - 🌱 Currently learning: **World Models**
-- 👯 Looking to collaborate on: **MISSING — fill in, e.g. "RL for robotics" or "developer tooling for ML teams"**
-- 💬 Ask me about: **MISSING — fill in, e.g. "bandit algorithms" or "shipping ML pipelines to production"**
-- ⚡ Fun fact: **MISSING (optional) — cut this line if you don't want it**
+- 👯 Looking to collaborate on: **Adversarial Verification Systems for Negotiating Agents**
+- 💬 Ask me about: **Multi-Armed Bandits**
+- ⚡ Fun fact: **I am a coffee enthusiast, learning how to do serious latte art.**
 
 ---
 
