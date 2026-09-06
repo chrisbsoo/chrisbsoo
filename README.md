@@ -114,7 +114,7 @@ Implemented and proved convergence for 4 stochastic portfolio optimisation algor
 </td>
 <td width="50%">
 
-**[Viskopic](https://github.com/hung-viskopic/VISKOPIC_PROJECT)**
+**[Viskopic](https://viskopic.com)**
 
 Academic-integrity ML pipeline extracting 90+ linguistic features per document, using Gaussian mixture models to detect writing-style drift, alongside an LLM-based ensemble pipeline to measure argument originality. Backed by a university startup accelerator.
 
