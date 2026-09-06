@@ -1,11 +1,12 @@
 <div align="center">
 
+
 <!-- SECTION: Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20There,%20I'm%20<YOUR%20NAME>&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20There,%20I'm%20Christopher&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- SECTION: Typing effect subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=<platform+engineer>;<research+engineer>;<theoretical+machine+learning>" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Platform+Engineer;Co-Founder+%40+Viskopic;MSc+AI+%40+University+of+Bristol" alt="Typing SVG" />
 </a>
 
 <!-- SECTION: Social + contact badges -->
