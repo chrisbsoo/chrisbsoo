@@ -28,7 +28,8 @@ I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focuse
 - 🌱 Currently learning: **World Models**
 - 👯 Looking to collaborate on: **Adversarial Verification Systems for Negotiating Agents**
 - 💬 Ask me about: **Multi-Armed Bandits**
-- ⚡ Fun fact: **I am a coffee enthusiast, learning how to do serious latte art.**
+- 😵‍💫 Unhinged fact: **I once spent 8 hours debating determinism with an AI and still didn't reach a conclusion**
+- ⚡ Fun fact: **I once spent 3 hours solving a leetcode problem only to realise I was solving the general, harder case, and not what the problem required**
 
 ---
 
