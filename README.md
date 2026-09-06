@@ -5,7 +5,7 @@
 
 <!-- SECTION: Typing effect subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=<Your+role%2C+e.g.+Backend+Engineer>;<Second+line%2C+e.g.+Open+Source+Contributor>;<Third+line%2C+e.g.+Always+learning+something+new>" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=<platform+engineer>;<research+engineer>;<theoretical+machine+learning>" alt="Typing SVG" />
 </a>
 
 <!-- SECTION: Social + contact badges -->
@@ -21,7 +21,7 @@
 <!-- SECTION: About -->
 ### 👋 About Me
 
-I'm a Software / Machine Learning Engineer Graduate based in Bristol, UK. Focused on Algorithm Design & Reinforcement Learning. Currently working on **Viskopic**, previously a Machine Learning Intern at Digibank, DBS.
+I'm a Platform / Machine Learning Engineer Graduate based in Bristol, UK. Focused on Reinforcement Learning. Currently working on **Viskopic**, previously a Machine Learning Intern at Digibank, DBS.
 
 - 🔭 Currently building: **Nuclear Decomissioning Robots**
 - 🌱 Currently learning: **World Models**
@@ -81,51 +81,49 @@ I'm a Software / Machine Learning Engineer Graduate based in Bristol, UK. Focuse
 
 ---
 
+ 
 <!-- SECTION: Featured projects -->
 ### 🚀 Featured Projects
-
+ 
 <table>
 <tr>
 <td width="50%">
-
-**[<Project 1 Name>](<repo-link>)**
+**[Core-Periphery Bandits](https://github.com/chrisbsoo/core-periphery)**
 <br/>
-<Short 1–2 sentence description of what it does and why it's notable.>
+Novel multi-armed bandit algorithms for two-sided marketplace allocation, tackling the exploration-exploitation trade-off that causes platforms to under-serve new suppliers. Benchmarked across 256 market conditions at 100-seed significance — winning 35% of regimes with ~30% lower regret than the best baseline.
 <br/>
-`<Tech>` `<Tech>` `<Tech>`
-
+`Python` `Numba` `Modal`
+ 
 </td>
 <td width="50%">
-
-**[<Project 2 Name>](<repo-link>)**
+**[romapy](https://github.com/chrisbsoo/romapy)**
 <br/>
-<Short 1–2 sentence description.>
+First Python implementation of the ROMA algorithm (Martignetti et al., 2016), cutting full-pipeline runtime from 8+ hours to 11 seconds (~2,600x) via batched power iteration. Published as an installable pip package with automated CI/CD across 5 Python versions.
 <br/>
-`<Tech>` `<Tech>` `<Tech>`
-
+`Python` `SVD` `PyPI` `GitHub Actions`
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**[<Project 3 Name>](<repo-link>)**
+**[SPO Web](https://github.com/chrisbsoo/spo-web)**
 <br/>
-<Short 1–2 sentence description.>
+Implemented and proved convergence for 4 stochastic portfolio optimisation algorithms, improving in-sample Sharpe ratio by 35% vs. baseline. Shipped as two live production services for under $10/month, backed by 56 automated tests gating every deploy.
 <br/>
-`<Tech>` `<Tech>` `<Tech>`
-
+`Python` `FastAPI` `TypeScript` `Next.js` `Cloudflare Workers`
+ 
 </td>
 <td width="50%">
-
-**[<Project 4 Name>](<repo-link>)**
+**[Viskopic](https://github.com/hung-viskopic/VISKOPIC_PROJECT)**
 <br/>
-<Short 1–2 sentence description.>
+Academic-integrity ML pipeline extracting 90+ linguistic features per document, using Gaussian mixture models to detect writing-style drift, alongside an LLM-based ensemble pipeline to measure argument originality. Backed by a university startup accelerator.
 <br/>
-`<Tech>` `<Tech>` `<Tech>`
-
+`Python` `scikit-learn` `Groq API` `LLMs`
+ 
 </td>
 </tr>
 </table>
+
 
 ---
 
