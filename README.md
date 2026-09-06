@@ -76,11 +76,6 @@ I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focuse
 <img src="https://streak-stats.demolab.com?user=chrisbsoo&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<!-- Optional: trophy case -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chrisbsoo&theme=flat&no-frame=true&row=1&column=6"/>
-</div>
-
 ---
 
 <!-- SECTION: Featured projects -->
