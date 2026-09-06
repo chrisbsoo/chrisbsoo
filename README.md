@@ -72,12 +72,6 @@ I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focuse
 
 <!-- SECTION: GitHub stats -->
 ### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chrisbsoo&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbsoo&layout=compact&hide_border=true"/>
-</div>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=chrisbsoo&hide_border=true" alt="GitHub Streak"/>
 </div>
@@ -98,7 +92,7 @@ I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focuse
 
 **[Core-Periphery Bandits](https://github.com/chrisbsoo/core-periphery)**
 
-Novel multi-armed bandit algorithms for two-sided marketplace allocation, tackling the exploration-exploitation trade-off that causes platforms to under-serve new suppliers. Benchmarked across 256 market conditions at 100-seed significance — winning 35% of regimes with ~30% lower regret than the best baseline.
+Novel multi-armed bandit algorithms for two-sided marketplace allocation, tackling the exploration-exploitation trade-off that causes platforms to under-serve new suppliers. Benchmarked across 256 market conditions at 100-seed significance, winning 35% of regimes with ~30% lower regret than the best baseline.
 
 `Python` `Numba` `Modal`
 
