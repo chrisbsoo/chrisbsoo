@@ -5,7 +5,7 @@
 
 <!-- SECTION: Typing effect subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Platform+Engineer;Co-Founder+%40+Viskopic;MSc+AI+%40+University+of+Bristol" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Engineer;Co-Founder+%40+Viskopic;MSc+AI+%40+University+of+Bristol" alt="Typing SVG" />
 </a>
 
 <!-- SECTION: Social + contact badges -->
@@ -22,7 +22,7 @@
 <!-- SECTION: About -->
 ### 👋 About Me
 
-I'm a Platform / Machine Learning Engineer graduate based in Bristol, UK, focused on reinforcement learning. Currently working on **Viskopic**, previously a Machine Learning Intern at Digibank, DBS.
+I'm a Data / Machine Learning Engineer graduate based in Bristol, UK, focused on reinforcement learning. Currently working on **Viskopic**, previously a Machine Learning Intern at Digibank, DBS.
 
 - 🔭 Currently building: **Nuclear Decommissioning Robots**
 - 🌱 Currently learning: **World Models**
